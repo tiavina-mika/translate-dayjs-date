@@ -227,7 +227,7 @@ const App = () => {
         </h3>
         <span>
           PS: The malagasy locale is not available with momentjs / dayjs, so I
-          hack it with other existing locale
+          hack it with other existing locale (de here)
         </span>
       </div>
       <footer>
